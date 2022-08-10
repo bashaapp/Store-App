@@ -1,0 +1,12 @@
+{
+  "name": "Shop-App",
+  "displayName": "Shop-App",
+  "expo": {
+    "name": "Shop-App",
+    "slug": "Shop-App",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
